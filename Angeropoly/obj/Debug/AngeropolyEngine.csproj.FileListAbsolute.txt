@@ -1,0 +1,6 @@
+C:\Users\Ryan Manny\Documents\Visual Studio 2015\Projects 321\Angeropoly\Angeropoly\bin\Debug\Angeropoly.exe.config
+C:\Users\Ryan Manny\Documents\Visual Studio 2015\Projects 321\Angeropoly\Angeropoly\bin\Debug\Angeropoly.exe
+C:\Users\Ryan Manny\Documents\Visual Studio 2015\Projects 321\Angeropoly\Angeropoly\bin\Debug\Angeropoly.pdb
+C:\Users\Ryan Manny\Documents\Visual Studio 2015\Projects 321\Angeropoly\Angeropoly\obj\Debug\AngeropolyEngine.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Manny\Documents\Visual Studio 2015\Projects 321\Angeropoly\Angeropoly\obj\Debug\Angeropoly.exe
+C:\Users\Ryan Manny\Documents\Visual Studio 2015\Projects 321\Angeropoly\Angeropoly\obj\Debug\Angeropoly.pdb
